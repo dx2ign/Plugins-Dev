@@ -1,0 +1,9 @@
+name: TestPlugin
+version: '1.0-SNAPSHOT'
+main: com.github.dx2ign.testplugin.TestPlugin
+api-version: 1.19
+authors: [ dx2ign ]
+description: PluginTest Plugin
+
+commands:
+  test:
